@@ -10,4 +10,4 @@ for _ in range(int(input())):
             if x not in l1:
                 ans+=1
             ans+=1
-    print(ans)
+    print(ans) 

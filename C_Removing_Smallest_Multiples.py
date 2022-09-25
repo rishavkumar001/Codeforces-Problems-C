@@ -19,4 +19,4 @@ for _ in range(int(input())):
                 v[j-1]=1
                 res+=i
             j+=i
-    print(res)
+    print(res) 
